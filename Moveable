@@ -4,17 +4,4 @@ void start();
 void stop();
 
 }
-[wtorek 11:27] Leon Sobota
-abstract class Animal {
 
-String name;
-public Animal(String name) {
-this.name = name;
-
-}
-public String getName() {
-return name;
-
-}
-
-}
